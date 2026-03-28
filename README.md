@@ -1,4 +1,10 @@
-## Hi there 👋
+ Hi, I'm Sanvi Gulhane 👋
+
+🎓 B.Tech (Computer Science Engineering in Artificial Intelligence and Machine Learning)  
+📚 1st Year  
+
+I am a first-year engineering student interested in learning programming, technology, and digital skills.  
+Currently exploring platforms like GitHub and building my knowledge in coding and software development.
 
 <!--
 **sanvigulhane2007/sanvigulhane2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
